@@ -23,7 +23,7 @@
 	this.random = "ランダム"
 	this.randomSong = "ランダムに曲をえらぶ"
 	this.howToPlay = "あそびかた説明"
-	this.aboutSimulator = "このシミュレータについて"
+	this.aboutSimulator = "について"
 	this.gameSettings = "ゲーム設定"
 	this.browse = "参照する…"
 	this.defaultSongList = "デフォルト曲リスト"
@@ -91,7 +91,7 @@
 			"バグが発生した場合は、報告してください。",
 			"Gitリポジトリかメールでバグを報告してください。"
 		],
-		diagnosticWarning: "以下の端末診断情報も併せて報告してください！",
+		diagnosticWarning: "以下の診断情報を含めてください！",
 		issueTemplate: "###### 下記の問題を説明してください。 スクリーンショットと診断情報を含めてください。"
 	}
 	this.session = {
